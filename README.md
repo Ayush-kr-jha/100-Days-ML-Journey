@@ -37,5 +37,4 @@ This repository documents my 100-day journey of learning
 - Jupyter Notebook
 
 ## Progress Tracking
-This repository is **actively updated daily** as I advance through  
-my 100-day Machine Learning journey.
+This repository is **actively updated daily** as I advance through my 100-day Machine Learning journey.
