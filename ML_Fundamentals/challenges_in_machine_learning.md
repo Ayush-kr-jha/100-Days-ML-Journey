@@ -85,7 +85,7 @@ Machine learning projects can be expensive due to:
 - Model deployment and maintenance
 
 
-## 🎯 Key Takeaway
+## Key Takeaway
 
 > Successful machine learning systems require more than good algorithms  
 > quality data, proper evaluation, and efficient deployment are equally important.
