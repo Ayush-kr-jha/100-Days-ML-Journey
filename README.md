@@ -12,8 +12,8 @@ This repository documents my 100-day journey of learning
 
 ## Learning Progress
 
-- Machine Learning Fundamentals ⏳ *(In Progress)*
-- Data Analysis & Visualization ⏸️ *(Not Started)*
+- Machine Learning Fundamentals ⏳ *(Completed)*
+- Data Analysis & Visualization ⏸️ *(In Progress)*
 - Supervised Learning ⏸️ *(Not Started)*
 - Unsupervised Learning ⏸️ *(Not Started)*
 - Feature Engineering & Model Tuning ⏸️ *(Not Started)*
